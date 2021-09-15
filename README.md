@@ -1,6 +1,6 @@
-# Exercices_on_Python
+Exercices_on_Python
 
-# Basic one-file working solutions for small problems 
-# On Python 3.6+
+ Basic one-file working solutions for small problems 
+ On Python 3.6+
 
-# For quick access
+ For quick access
