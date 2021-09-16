@@ -1,4 +1,4 @@
-Exercices_on_Python
+exercices_on_Python
 
  Basic one-file working solutions for small problems 
  
